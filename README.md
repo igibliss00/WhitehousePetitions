@@ -2,9 +2,9 @@
 
 This app demonstrates the use of fetching a JSON data type from a remote data source and decode it using JSONDecoder().  It uses the Tab Bar Controller for navigation between two view controllers.  The content from selecting a cell on the table view is shown through a custom HTML format in WKWebView.
 
-<img src="https://github.com/igibliss00/Whitehouse-Petitions/blob/master/README_assets/1.png" width="400">
+<img src="https://github.com/igibliss00/WhitehousePetitions/blob/master/README_assets/1.png" width="400">
 
-<img src="https://github.com/igibliss00/Whitehouse-Petitions/blob/master/README_assets/2.png" width="400">
+<img src="https://github.com/igibliss00/WhitehousePetitions/blob/master/README_assets/2.png" width="400">
 
 ## Installing
 
